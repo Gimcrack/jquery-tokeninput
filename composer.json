@@ -1,0 +1,14 @@
+{
+    "name": "ingenious/jquery-tokeninput",
+    "description": "Composer fork of loopj/jquery-tokeninput",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Smith",
+            "email": "james@loopj.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
