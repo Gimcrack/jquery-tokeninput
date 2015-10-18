@@ -31,8 +31,8 @@
     deleteText: "&#215;",
     animateDropdown: true,
     placeholder: null,
-    theme: null,
-    zindex: 999,
+    theme: 'facebook',
+    zindex: 99999,
     resultsLimit: null,
 
     enableHTML: false,
@@ -50,11 +50,11 @@
     // Tokenization settings
     tokenLimit: null,
     tokenDelimiter: ",",
-    preventDuplicates: false,
+    preventDuplicates: true,
     tokenValue: "id",
 
     // Behavioral settings
-    allowFreeTagging: false,
+    allowFreeTagging: true,
     allowTabOut: false,
     autoSelectFirstResult: false,
 
